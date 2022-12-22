@@ -1,8 +1,8 @@
-## Hi \\^_^/ I'm Os and ...
+## Hi \\^_^/ I'm Os and I'm ...
 
-- I'm learning DevOps tools.
-- I'm interested in Operating Systems, Networking and Cyber Security.
-- I'm studying a Computer Science Major at Ciencias-UNAM.
+- Learning DevOps tools.
+- Interested in Operating Systems, Networking and Cyber Security.
+- Studying a Computer Science Major at Ciencias-UNAM.
 
 ### I'm experienced with
 - Java 
