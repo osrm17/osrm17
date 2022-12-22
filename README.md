@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi \^_^/ I'm Os and ...
+
+- I'm learning DevOps tools.
+- I'm interested in Operating Systems, Networking and Cyber Security.
+- I'm studying a Computer Science Major at Ciencias-UNAM.
+
+## I am experienced with
+- Java 
+- Haskell
+- GNU/Linux 
 
 <!--
 **osrm17/osrm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
