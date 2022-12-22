@@ -4,7 +4,7 @@
 - I'm interested in Operating Systems, Networking and Cyber Security.
 - I'm studying a Computer Science Major at Ciencias-UNAM.
 
-### I am experienced with
+### I'm experienced with
 - Java 
 - Haskell
 - GNU/Linux 
