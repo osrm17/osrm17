@@ -1,13 +1,13 @@
 ## Hi \\^_^/ I'm Os and I'm ...
 
-- Learning DevOps tools.
+- Learning DevOps tools and culture.
 - Interested in Operating Systems, Networking and Cyber Security.
-- Studying a Computer Science Major at Ciencias-UNAM.
+- Studying a Computer Science Major at Facultad de Ciencias-UNAM.
 
 ### I'm experienced with
 - Java 
 - Haskell
-- GNU/Linux 
+- GNU/Linux 🐧
 
 <!--
 **osrm17/osrm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
