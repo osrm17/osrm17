@@ -1,4 +1,4 @@
-## Hi \\^_^/ I'm Os and I'm ...
+## Hi \\^_^/ I'm Oss and I'm ...
 
 - Learning DevOps tools and culture.
 - Interested in Operating Systems, Networking and Cyber Security.
@@ -7,7 +7,7 @@
 ### I'm experienced with
 - Java 
 - Haskell
-- GNU/Linux 🐧
+- GNU/Linux 
 
 <!--
 **osrm17/osrm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
