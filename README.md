@@ -6,7 +6,7 @@
 
 ### I'm experienced with
 - Java 
-- Haskell
+- Python
 - GNU/Linux 
 
 <!--
